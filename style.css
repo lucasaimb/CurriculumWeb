@@ -1,0 +1,104 @@
+body{
+    background-image: url(background.jpg)
+  }
+  
+  .respirosuperior{
+    margin-top: 100px;
+  }
+  
+  .imgperfil {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-left: 270px;
+  }
+  
+  h1{
+    color: #b56dfd;
+    padding-left: 200px;
+  }
+  
+  .titulocomum{
+    color: #b56dfd;
+    font-size: 35px;
+  }
+  
+  .textocomum{
+    color: white;
+    font-size: 22px;
+  }
+  
+  .bordinha{
+    border: 5px solid #666666;
+  }
+  
+  .icons{
+    width: 50px;
+    height: 50px;
+  }
+  
+  #linkedin{
+    margin-left: 10px;
+    display: inline-flex;
+  }
+  #linkedin:hover{
+    width: 60px;
+    height:60px;
+    background-color:#b56dfd;
+    border-radius: 50%;
+  }
+  
+  #email{
+    color: white;
+    display: inline-block;
+    margin-left:200px;
+    margin-right:10px;
+    margin-top: 20px;
+    height: 90px;
+  }
+  
+  #instagram:hover{
+    width: 60px;
+    height:60px;
+    background-color:#b56dfd;
+    border-radius: 50%;
+  }
+  
+  #cabecalhoperfil{
+    height: 600px; 
+    height: 500px;
+  }
+  
+  #bio{
+    position: absolute;
+    top: 150px;
+    left: 900px;
+    text-align: justify;
+    margin-right: 70px;
+  }
+  
+  .comps{
+    color: white;
+    font-size: 20px;
+    }
+  
+  #competencias{
+    position: absolute;
+    top: 600px;
+    left:1000px;
+    border-radius: 5px;
+  }
+  
+  #qualidades{
+    display: inline-block;
+    position: absolute;
+    top: 500px;
+    left: 150px;
+  }
+  
+  #defeitos{
+    display: inline-block;
+    position:absolute;
+    top: 750px;
+    left: 150px;
+  }
